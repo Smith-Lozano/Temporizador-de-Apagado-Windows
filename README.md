@@ -200,20 +200,12 @@ Simplemente borre el archivo .exe (no deja residuos).
 Limitaciones Conocidas
 - No guarda historial de tiempos usados
 - No tiene modo silencioso (sin alertas)
-- No se ejecuta en segundo plano al minimizar
-- No tiene programación por fecha/hora específica
 
 Autor y Contacto
 Desarrollador: smith
-Versión: 2.0 (Compilada a EXE)
+Versión: 2.0
 Tipo: Portable (Sin instalación)
 Licencia: Uso gratuito personal y comercial
-
-Soporte Técnico
-Para problemas o sugerencias:
-1. Verifique que tiene la última versión
-2. Pruebe ejecutar como administrador
-3. Revise que no haya antivirus bloqueando
 
 Actualizaciones Futuras (Posibles)
 [ ] Programación por hora específica
@@ -221,13 +213,6 @@ Actualizaciones Futuras (Posibles)
 [ ] Reinicio programado
 [ ] Recordatorios múltiples
 [ ] Idioma inglés
-
-Resumen Rápido
-1. Descargue el archivo .exe
-2. Ejecute con doble clic
-3. Seleccione tiempo (botón o personalizado)
-4. Espere la cuenta regresiva
-5. Cancele si es necesario
 
 ¡Recuerde guardar su trabajo antes de programar el apagado!
 
